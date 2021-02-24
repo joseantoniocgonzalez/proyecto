@@ -1,0 +1,486 @@
+<marcador>
+<competicion id="1">
+<nombre>LFP 1 DIVISION</nombre>
+<fase id="0"> </fase>
+<jornada id="1" jornadaSiguiente="https://www.marca.com/marcador/futbol/iphone/1/2016_17/fase0/jornada_2/marcador.xml"/>
+<temporada>2016_17</temporada>
+<grupos>
+<grupo id="1">
+<eventos>
+<evento id="494592">
+<fecha>19/08/2016 20:45</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="204">Málaga</equipolocal>
+<equipovisitante id="117">Osasuna</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/182.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/450.png
+</escudoVisitante>
+<tv>GolT</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/mga_osa/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/mga_osa/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494587">
+<fecha>19/08/2016 22:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="8">Deportivo</equipolocal>
+<equipovisitante id="106">Eibar</equipovisitante>
+<resultadolocal>2</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/180.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/953.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/dep_eib/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/dep_eib/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494584">
+<fecha>20/08/2016 18:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="4">Barcelona</equipolocal>
+<equipovisitante id="5">Betis</equipovisitante>
+<resultadolocal>6</resultadolocal>
+<resultadovisitante>2</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/178.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/185.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/bar_bet/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/bar_bet/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494588">
+<fecha>20/08/2016 20:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="201">Granada</equipolocal>
+<equipovisitante id="132">Villarreal</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/5683.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/449.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/gda_vil/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/gda_vil/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494586">
+<fecha>20/08/2016 22:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="17">Sevilla</equipolocal>
+<equipovisitante id="9">Espanyol</equipovisitante>
+<resultadolocal>6</resultadolocal>
+<resultadovisitante>4</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/179.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/177.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/sev_esp/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/sev_esp/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494589">
+<fecha>21/08/2016 18:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="18">Sporting</equipolocal>
+<equipovisitante id="2">Athletic</equipovisitante>
+<resultadolocal>2</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/616.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/174.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/spo_ath/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/spo_ath/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494583">
+<fecha>21/08/2016 20:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="15">R. Sociedad</equipolocal>
+<equipovisitante id="14">R. Madrid</equipovisitante>
+<resultadolocal>0</resultadolocal>
+<resultadovisitante>3</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/188.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/186.png
+</escudoVisitante>
+<tv>Movistar Partidazo</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/rso_rma/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/rso_rma/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494590">
+<fecha>21/08/2016 22:15</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="3">Atlético</equipolocal>
+<equipovisitante id="92">Alavés</equipovisitante>
+<resultadolocal>1</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/175.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/173.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/atm_ala/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/atm_ala/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494591">
+<fecha>22/08/2016 20:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="6">Celta</equipolocal>
+<equipovisitante id="111">Leganés</equipovisitante>
+<resultadolocal>0</resultadolocal>
+<resultadovisitante>1</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/176.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/957.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/cel_leg/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/cel_leg/directo.xml
+</enlaceDirecto>
+</evento>
+<evento id="494585">
+<fecha>22/08/2016 22:00</fecha>
+<estado id="3">Finalizado</estado>
+<equipolocal id="21">Valencia</equipolocal>
+<equipovisitante id="110">Las Palmas</equipovisitante>
+<resultadolocal>2</resultadolocal>
+<resultadovisitante>4</resultadovisitante>
+<tipodeporte>1</tipodeporte>
+<escudoLocal>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/191.png
+</escudoLocal>
+<escudoVisitante>
+https://e00-marca.uecdn.es/assets/datos-deportivos/escudos/opta/png/ios/28px/2x/407.png
+</escudoVisitante>
+<tv>beIN La Liga</tv>
+<estadisticas/>
+<alineaciones>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/val_pal/alineaciones.html
+</alineaciones>
+<comentariosLectores/>
+<previacronica>2</previacronica>
+<enlaceDirecto>
+https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_1/val_pal/directo.xml
+</enlaceDirecto>
+</evento>
+</eventos>
+<clasificacion>
+<team>
+<name>R. Madrid</name>
+<rank>1</rank>
+<points>30</points>
+<played>12</played>
+<won>9</won>
+<lost>0</lost>
+<drawn>3</drawn>
+<goals_scored>34</goals_scored>
+<goals_conceded>10</goals_conceded>
+</team>
+<team>
+<name>Barcelona</name>
+<rank>2</rank>
+<points>26</points>
+<played>12</played>
+<won>8</won>
+<lost>2</lost>
+<drawn>2</drawn>
+<goals_scored>32</goals_scored>
+<goals_conceded>13</goals_conceded>
+</team>
+<team>
+<name>Sevilla</name>
+<rank>3</rank>
+<points>24</points>
+<played>12</played>
+<won>7</won>
+<lost>2</lost>
+<drawn>3</drawn>
+<goals_scored>22</goals_scored>
+<goals_conceded>17</goals_conceded>
+</team>
+<team>
+<name>Villarreal</name>
+<rank>4</rank>
+<points>22</points>
+<played>12</played>
+<won>6</won>
+<lost>2</lost>
+<drawn>4</drawn>
+<goals_scored>19</goals_scored>
+<goals_conceded>8</goals_conceded>
+</team>
+<team>
+<name>R. Sociedad</name>
+<rank>5</rank>
+<points>22</points>
+<played>12</played>
+<won>7</won>
+<lost>4</lost>
+<drawn>1</drawn>
+<goals_scored>21</goals_scored>
+<goals_conceded>13</goals_conceded>
+</team>
+<team>
+<name>Atlético</name>
+<rank>6</rank>
+<points>21</points>
+<played>12</played>
+<won>6</won>
+<lost>3</lost>
+<drawn>3</drawn>
+<goals_scored>25</goals_scored>
+<goals_conceded>11</goals_conceded>
+</team>
+<team>
+<name>Athletic</name>
+<rank>7</rank>
+<points>20</points>
+<played>12</played>
+<won>6</won>
+<lost>4</lost>
+<drawn>2</drawn>
+<goals_scored>16</goals_scored>
+<goals_conceded>13</goals_conceded>
+</team>
+<team>
+<name>Eibar</name>
+<rank>8</rank>
+<points>18</points>
+<played>12</played>
+<won>5</won>
+<lost>4</lost>
+<drawn>3</drawn>
+<goals_scored>17</goals_scored>
+<goals_conceded>15</goals_conceded>
+</team>
+<team>
+<name>Celta</name>
+<rank>9</rank>
+<points>17</points>
+<played>12</played>
+<won>5</won>
+<lost>5</lost>
+<drawn>2</drawn>
+<goals_scored>18</goals_scored>
+<goals_conceded>22</goals_conceded>
+</team>
+<team>
+<name>Las Palmas</name>
+<rank>10</rank>
+<points>16</points>
+<played>12</played>
+<won>4</won>
+<lost>4</lost>
+<drawn>4</drawn>
+<goals_scored>21</goals_scored>
+<goals_conceded>20</goals_conceded>
+</team>
+<team>
+<name>Málaga</name>
+<rank>11</rank>
+<points>16</points>
+<played>12</played>
+<won>4</won>
+<lost>4</lost>
+<drawn>4</drawn>
+<goals_scored>17</goals_scored>
+<goals_conceded>16</goals_conceded>
+</team>
+<team>
+<name>Espanyol</name>
+<rank>12</rank>
+<points>15</points>
+<played>12</played>
+<won>3</won>
+<lost>3</lost>
+<drawn>6</drawn>
+<goals_scored>14</goals_scored>
+<goals_conceded>17</goals_conceded>
+</team>
+<team>
+<name>Betis</name>
+<rank>13</rank>
+<points>14</points>
+<played>12</played>
+<won>4</won>
+<lost>6</lost>
+<drawn>2</drawn>
+<goals_scored>13</goals_scored>
+<goals_conceded>22</goals_conceded>
+</team>
+<team>
+<name>Alavés</name>
+<rank>14</rank>
+<points>13</points>
+<played>12</played>
+<won>3</won>
+<lost>5</lost>
+<drawn>4</drawn>
+<goals_scored>11</goals_scored>
+<goals_conceded>16</goals_conceded>
+</team>
+<team>
+<name>Leganés</name>
+<rank>15</rank>
+<points>13</points>
+<played>12</played>
+<won>4</won>
+<lost>7</lost>
+<drawn>1</drawn>
+<goals_scored>11</goals_scored>
+<goals_conceded>22</goals_conceded>
+</team>
+<team>
+<name>Valencia</name>
+<rank>16</rank>
+<points>11</points>
+<played>12</played>
+<won>3</won>
+<lost>7</lost>
+<drawn>2</drawn>
+<goals_scored>16</goals_scored>
+<goals_conceded>22</goals_conceded>
+</team>
+<team>
+<name>Deportivo</name>
+<rank>17</rank>
+<points>10</points>
+<played>12</played>
+<won>2</won>
+<lost>6</lost>
+<drawn>4</drawn>
+<goals_scored>10</goals_scored>
+<goals_conceded>19</goals_conceded>
+</team>
+<team>
+<name>Sporting</name>
+<rank>18</rank>
+<points>9</points>
+<played>12</played>
+<won>2</won>
+<lost>7</lost>
+<drawn>3</drawn>
+<goals_scored>11</goals_scored>
+<goals_conceded>25</goals_conceded>
+</team>
+<team>
+<name>Osasuna</name>
+<rank>19</rank>
+<points>7</points>
+<played>12</played>
+<won>1</won>
+<lost>7</lost>
+<drawn>4</drawn>
+<goals_scored>12</goals_scored>
+<goals_conceded>23</goals_conceded>
+</team>
+<team>
+<name>Granada</name>
+<rank>20</rank>
+<points>5</points>
+<played>12</played>
+<won>0</won>
+<lost>7</lost>
+<drawn>5</drawn>
+<goals_scored>10</goals_scored>
+<goals_conceded>26</goals_conceded>
+</team>
+</clasificacion>
+</grupo>
+</grupos>
+</competicion>
+</marcador>
